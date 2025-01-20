@@ -50,6 +50,7 @@ The initial part of the code involves generating a time series dataset that incl
 ## File Outputs
 - `final_solar_weather_data_with_consumption.csv`: Processed dataset including the calculated `Estimated Solar Energy Consumption (kWh)` column.
 - `outliers_detected.csv`: Records identified as outliers for further inspection.
+- The other datasets include excel/.csv files generated during data generation for 10 canadian cities over a period of 10 years (2014-2024)
 
 ## Requirements
 - Python libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`
