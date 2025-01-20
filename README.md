@@ -1,4 +1,4 @@
-# Solar-Energy-Consumption-Prediction
+
 
 # Solar Energy Consumption Prediction and Time Series Analysis for Canadian Cities
 
